@@ -1,0 +1,42 @@
+﻿@page "{Id:int}"
+@model ProductTasksModel
+@{
+    ViewData["Title"] = "Tasks";
+}
+
+<h3> Details about our product in <span>@Model.product.Product_Category</span> category</h3>
+<div>
+    <h6>ID: @Model.product.Id</h6>
+</div>
+<div>
+    <h6>Name: @Model.product.Name</h6>
+</div>
+@if (Model.productTasks.Count() != 0)
+{
+    @foreach (var task in Model.productTasks)
+    {
+        <h5>Task: </h5>
+        <h6>@task.Description</h6>
+    }
+}
+
+<div class="container">
+    <table class="table">
+        <thead>
+        <td>Id</td>
+        <td>Description</td>
+        </thead>
+        @foreach (var task in Model.tasks)
+        {
+            <tr>
+                <td>@task.Id</td>
+                <td>@task.Description</td>
+            </tr>
+        }
+    </table>
+    <form method="post">
+        <label>For adding task to this product, enter the task ID</label>
+        <input type="number" asp-for="@Model.taskId" />
+        <button class="btn btn-dark" type="submit" asp-page="./ProductTasks" asp-route-id="@Model.product.Id">Add this task</button>
+    </form>
+</div>
