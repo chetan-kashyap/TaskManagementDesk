@@ -1,0 +1,8 @@
+C:\Users\Chetan Kashyap\source\repos\TaskManagementDesk\TaskManagement.core\bin\Debug\netcoreapp3.1\TaskManagement.core.deps.json
+C:\Users\Chetan Kashyap\source\repos\TaskManagementDesk\TaskManagement.core\bin\Debug\netcoreapp3.1\TaskManagement.core.dll
+C:\Users\Chetan Kashyap\source\repos\TaskManagementDesk\TaskManagement.core\bin\Debug\netcoreapp3.1\TaskManagement.core.pdb
+C:\Users\Chetan Kashyap\source\repos\TaskManagementDesk\TaskManagement.core\obj\Debug\netcoreapp3.1\TaskManagement.core.csprojAssemblyReference.cache
+C:\Users\Chetan Kashyap\source\repos\TaskManagementDesk\TaskManagement.core\obj\Debug\netcoreapp3.1\TaskManagement.core.AssemblyInfoInputs.cache
+C:\Users\Chetan Kashyap\source\repos\TaskManagementDesk\TaskManagement.core\obj\Debug\netcoreapp3.1\TaskManagement.core.AssemblyInfo.cs
+C:\Users\Chetan Kashyap\source\repos\TaskManagementDesk\TaskManagement.core\obj\Debug\netcoreapp3.1\TaskManagement.core.dll
+C:\Users\Chetan Kashyap\source\repos\TaskManagementDesk\TaskManagement.core\obj\Debug\netcoreapp3.1\TaskManagement.core.pdb

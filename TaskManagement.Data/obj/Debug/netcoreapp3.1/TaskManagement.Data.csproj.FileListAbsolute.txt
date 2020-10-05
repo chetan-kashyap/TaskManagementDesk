@@ -1,0 +1,13 @@
+C:\Users\Chetan Kashyap\source\repos\TaskManagementDesk\TaskManagement.Data\obj\Debug\netcoreapp3.1\TaskManagement.Data.csprojAssemblyReference.cache
+C:\Users\Chetan Kashyap\source\repos\TaskManagementDesk\TaskManagement.Data\obj\Debug\netcoreapp3.1\TaskManagement.Data.AssemblyInfoInputs.cache
+C:\Users\Chetan Kashyap\source\repos\TaskManagementDesk\TaskManagement.Data\obj\Debug\netcoreapp3.1\TaskManagement.Data.AssemblyInfo.cs
+C:\Users\Chetan Kashyap\source\repos\TaskManagementDesk\TaskManagement.Data\bin\Debug\netcoreapp3.1\TaskManagement.Data.deps.json
+C:\Users\Chetan Kashyap\source\repos\TaskManagementDesk\TaskManagement.Data\bin\Debug\netcoreapp3.1\TaskManagement.Data.dll
+C:\Users\Chetan Kashyap\source\repos\TaskManagementDesk\TaskManagement.Data\bin\Debug\netcoreapp3.1\TaskManagement.Data.pdb
+C:\Users\Chetan Kashyap\source\repos\TaskManagementDesk\TaskManagement.Data\bin\Debug\netcoreapp3.1\TaskManagement.core.dll
+C:\Users\Chetan Kashyap\source\repos\TaskManagementDesk\TaskManagement.Data\bin\Debug\netcoreapp3.1\TaskManagement.core.pdb
+C:\Users\Chetan Kashyap\source\repos\TaskManagementDesk\TaskManagement.Data\obj\Debug\netcoreapp3.1\TaskManagement.Data.csproj.CopyComplete
+C:\Users\Chetan Kashyap\source\repos\TaskManagementDesk\TaskManagement.Data\obj\Debug\netcoreapp3.1\TaskManagement.Data.dll
+C:\Users\Chetan Kashyap\source\repos\TaskManagementDesk\TaskManagement.Data\obj\Debug\netcoreapp3.1\TaskManagement.Data.pdb
+C:\Users\Chetan Kashyap\source\repos\TaskManagementDesk\TaskManagement.Data\bin\Debug\netcoreapp3.1\TaskManagement.Data.runtimeconfig.json
+C:\Users\Chetan Kashyap\source\repos\TaskManagementDesk\TaskManagement.Data\bin\Debug\netcoreapp3.1\TaskManagement.Data.runtimeconfig.dev.json
